@@ -12,36 +12,36 @@ Italic Font Name: ariali.ttf
 //Advanced
 
 //Dimensions and offsets for 2 cards per page
-grid_width: 1100
-grid_height: 850
-standard_box_size: 100
-title_w: 500
-title_h: 90
-title_x0: 40
+grid_width: 2200
+grid_height: 1700
+standard_box_size: 200
+title_w: 1000
+title_h: 180
+title_x0: 80
 title_y0: 0
-bingo_y0: 100
-title_y0: 100
-grid_x_offset: 20
-grid_y_offset: 200
-grid2_x_offset: 550
-title2_x_offset: 530
+bingo_y0: 200
+title_y0: 200
+grid_x_offset: 40
+grid_y_offset: 400
+grid2_x_offset: 1100
+title2_x_offset: 1060
 
 //Dimensions and offsets for 1 card per page
-grid_width1: 850
-grid_height1: 1100
-standard_box_size1: 140
-title_w1: 600
-title_h1: 90
-title_x01: 200
-title_y01: 30
-bingo_y01: 100
-title_y01: 100
-grid_x_offset1: 60
-grid_y_offset1: 240
+grid_width1: 1700
+grid_height1: 2200
+standard_box_size1: 280
+title_w1: 1200
+title_h1: 180
+title_x01: 400
+title_y01: 60
+bingo_y01: 200
+title_y01: 200
+grid_x_offset1: 120
+grid_y_offset1: 480
 
 //Offsets for instagram text
-insta_y_offset: 100
-insta_x_offset: 15
+insta_y_offset: 200
+insta_x_offset: 30
 
 //Timeout for text wrapping function
 timeout: 5
