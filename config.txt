@@ -1,0 +1,49 @@
+//Basic
+//Cards per page can be 1 or 2
+Cards Per Page: 2
+Free Space Text: Free!
+//Whether to write "BINGO" above 5x5 cards
+Include BINGO: True
+//Instagram text
+Insta Text: Follow on Instagram @username
+Font Name: arial.ttf
+Italic Font Name: ariali.ttf
+
+//Advanced
+
+//Dimensions and offsets for 2 cards per page
+grid_width: 1100
+grid_height: 850
+standard_box_size: 100
+title_w: 500
+title_h: 90
+title_x0: 40
+title_y0: 0
+bingo_y0: 100
+title_y0: 100
+grid_x_offset: 20
+grid_y_offset: 200
+grid2_x_offset: 550
+title2_x_offset: 530
+
+//Dimensions and offsets for 1 card per page
+grid_width1: 850
+grid_height1: 1100
+standard_box_size1: 140
+title_w1: 600
+title_h1: 90
+title_x01: 200
+title_y01: 30
+bingo_y01: 100
+title_y01: 100
+grid_x_offset1: 60
+grid_y_offset1: 240
+
+//Offsets for instagram text
+insta_y_offset: 100
+insta_x_offset: 15
+
+//Timeout for text wrapping function
+timeout: 5
+//Longest string to be used in best (but inefficient) text wrapping function
+max_best_length: 8

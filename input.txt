@@ -1,0 +1,38 @@
+Round Title: Bingo Songs
+Number of Rows: 5
+Number of Cards to Make: 10
+Include Free: False
+
+Songs:
+
+Taylor Swift- Cruel Summer
+Sugar Ray- Under the Sun
+Grouplove- Tongue Tied
+Fleetwood Mac- Dreams
+The Outfield- Your Love
+boygenius- Not Strong Enough
+Willie Nelson- Whiskey River
+Billy Joel- Vienna
+John Prine- Souvenirs
+FIDLAR- West Coast
+Dua Lipa- Levitating
+Jackson Browne- Running on Empty
+Adele- Chasing Pavements
+Maggie Rogers- Alaska
+St Lucia- Dancing on Glass
+ABBA- One Of Us
+The Beach Boys- Fun, Fun, Fun
+Dr. Dre- Still D.R.E.
+The Strokes- Someday
+Blondie- Tide is High
+Led Zeppelin- Going to California
+The Chicks- Wide Open Spaces
+Devil Makes Three- Old Number Seven
+Portugal. The Man- Feel It Still
+Brooks & Dunn- Neon Moon
+Dave Brubeck Quartet- Take Five
+Marc Anthony- Vivir Lo Nuestro
+Becky G, Bad Bunny- Mayores
+Bullet For My Valentine- Tears Don't Fall
+Tribe Called Quest- Can I Kick It?
+Jimmy Buffet- Changes In Latitudes
