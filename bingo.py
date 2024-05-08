@@ -127,7 +127,7 @@ def get_squares_dict(unformatted_squares,box_size):
     return squares
 def max_font_size(text,box_size):
     global font_name
-    for font_size in range(2,80):
+    for font_size in range(2,120):
         font = ImageFont.truetype(font_name, font_size)
         text_width, text_height = draw.textsize(text, font=font)
         if max(text_height,text_width)>box_size*.8:
@@ -136,7 +136,7 @@ def max_font_size(text,box_size):
 
 def max_title_size(text,max_length,max_height):
     global font_name
-    for font_size in range(2,80):
+    for font_size in range(2,120):
         font = ImageFont.truetype(font_name, font_size)
         text_width, text_height = draw.textsize(text, font=font)
         if max(text_height,text_width)>max_length:
